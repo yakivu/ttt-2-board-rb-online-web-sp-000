@@ -27,15 +27,6 @@ row[1]
 # Position 6:Right
 row[2]
 
-# Position 7:Left
-row[0]
-
-# Position 8: Middle
-row[1]
-
-# Position 9: Right
-row[2]
-
 
 
 def display_board(board)
