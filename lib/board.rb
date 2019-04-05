@@ -37,13 +37,7 @@ row[1]
 row[2]
 
 
-# Move X to the Position 2, Middle
-row[0] = "X"
-row #=> [" ", "X", " "] 
-row[1] = "x"
-row #=> [" ", "x", " "]
-row[2] = "x"
-row #=> [" ", "x", " "]
+
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
   puts "-----------"
